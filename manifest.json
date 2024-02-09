@@ -42,7 +42,7 @@
         },
         {
             "src": "./assets/img/favicon-96.png",
-            "sizes": "96xx96",
+            "sizes": "96x96",
             "type": "image/png" 
         },
         {
